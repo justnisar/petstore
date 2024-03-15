@@ -1,0 +1,2 @@
+The "name" property in pet object for schemas.py is supposed to be integer.
+It was string before. I changed it to integer.
